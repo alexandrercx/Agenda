@@ -3,3 +3,11 @@
 ################################################################################
 
 /Source/.vs/Agenda_teste/v15/Server/sqlite3
+/Source/Dados/bin/Debug
+/Source/Dados/obj
+/Source/Dominio/bin/Debug
+/Source/Dominio/obj
+/Source/Infra/bin/Debug
+/Source/Infra/obj
+/Source/WindowsForms/bin/Debug
+/Source/WindowsForms/obj/x86
